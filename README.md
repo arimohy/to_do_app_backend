@@ -11,8 +11,6 @@ Este es el backend para una aplicación de gestión de tareas (To-Do List), crea
 4. [Instalación](#instalación)
 5. [Uso](#uso)
 6. [Endpoints](#endpoints)
-7. [Contribuir](#contribuir)
-8. [Licencia](#licencia)
 
 ## Introducción
 
